@@ -19,6 +19,6 @@ This is a dynamic and interactive web-based drawing tool built using HTML, CSS, 
 
 ## 📸 Preview
 
-![Whiteboard Toolbar Preview](./whiteboard.)
+![Whiteboard Toolbar Preview](./whiteboard.png)
 
 ---
